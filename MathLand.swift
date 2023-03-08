@@ -15,18 +15,6 @@ let SHAPE_TWO = "trapezoid";
 let SHAPE_THREE = "pentagon";
 
 // Declare variables
-var userString = " ";
-var shapeString = " ";
-var triBaseString = " ";
-var triHeightString = " ";
-var trapBaseString = " ";
-var trapHeightString = " ";
-var trapSideString = " ";
-var penSideString = " ";
-var quesAns = " ";
-var userNum1Sr = " ";
-var userNum2Sr = " ";
-var userNum3Sr = " ";
 var userInt = 0;
 var triBaseFloat = 0.0;
 var triHeightFloat = 0.0;
