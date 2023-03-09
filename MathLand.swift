@@ -143,6 +143,8 @@ repeat {
             print("Thank you for playing!!");
         // If any other letter or num is 
         //used ask them again to enter a valid number
+        } else if quesAns == "y" {
+            print("Here you go again!")
         } else {
             print("Please input a valid string");
         }
